@@ -1,8 +1,7 @@
 ### Hey there 👋
 
-![image](https://github.com/rohitbrk/rohitbrk/assets/89332475/2b59d565-8049-4faa-a21c-8e3c1768e186)
-
-
+Programming Languages
+NodeJS JavaScript TypeScript HTML5 CSS3
 <!--
 **rohitbrk/rohitbrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
