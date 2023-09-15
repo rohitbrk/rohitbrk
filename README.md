@@ -1,7 +1,5 @@
 ### Hey there 👋
 
-Programming Languages
-NodeJS JavaScript TypeScript HTML5 CSS3
 <!--
 **rohitbrk/rohitbrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
